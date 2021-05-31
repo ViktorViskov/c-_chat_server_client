@@ -1,0 +1,16 @@
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\obj\Debug\net5.0\chat_client.csprojAssemblyReference.cache
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\obj\Debug\net5.0\chat_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\obj\Debug\net5.0\chat_client.AssemblyInfoInputs.cache
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\obj\Debug\net5.0\chat_client.AssemblyInfo.cs
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\obj\Debug\net5.0\chat_client.csproj.CoreCompileInputs.cache
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\bin\Debug\net5.0\chat_client.exe
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\bin\Debug\net5.0\chat_client.deps.json
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\bin\Debug\net5.0\chat_client.runtimeconfig.json
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\bin\Debug\net5.0\chat_client.runtimeconfig.dev.json
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\bin\Debug\net5.0\chat_client.dll
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\bin\Debug\net5.0\ref\chat_client.dll
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\bin\Debug\net5.0\chat_client.pdb
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\obj\Debug\net5.0\chat_client.dll
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\obj\Debug\net5.0\ref\chat_client.dll
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\obj\Debug\net5.0\chat_client.pdb
+C:\Users\vikt3586\Documents\OOP\chat_c_sharp\chat_client\obj\Debug\net5.0\chat_client.genruntimeconfig.cache
